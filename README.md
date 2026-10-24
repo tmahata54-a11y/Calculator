@@ -1,2 +1,2 @@
-# Calculator
-Textile calculation
+# Textile Calculation 
+Calculator 
